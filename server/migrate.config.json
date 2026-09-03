@@ -1,0 +1,5 @@
+{
+  "databaseUrl": "process.env.DATABASE_URL",
+  "migrationsTable": "pg_migrations",
+  "dir": "migrations"
+}
