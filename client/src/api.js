@@ -1,4 +1,4 @@
-export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000';
+export const BACKEND_URL = import.meta.env.VITE_BACKEND_URL ?? '';
 
 export function apiFetch(path, options = {}) {
   const { headers, ...rest } = options;

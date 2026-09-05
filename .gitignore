@@ -11,6 +11,7 @@ server/.env
 # Build outputs
 client/dist/
 server/dist/
+server/public/
 build/
 
 # OS files
