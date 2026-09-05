@@ -1,6 +1,6 @@
 # WebAuthn Demo
 
-A simple project demonstrating how passwordless authentication works using **WebAuthn** and secure session cookies.
+A simple university project demonstrating how passwordless authentication works using **WebAuthn** and secure session cookies.
 
 ## Features
 
